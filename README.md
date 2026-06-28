@@ -1,1 +1,1 @@
-# Supply_Chain_Project
+# Supply_Chain_Managment_SQL_Project
